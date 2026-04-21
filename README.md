@@ -22,16 +22,28 @@ RFID-based automatic attendance system
 Real-time IoT monitoring using NodeMCU ESP8266
 
 Cloud data storage using Google Sheets
+
 Mobile dashboard using Blynk IoT platform
+
 Temperature and humidity monitoring using DHT11 sensor
+
 Buzzer alerts for authorized and unauthorized access
+
 Notifications and alerts for environmental conditions
+
+
 Technologies Used
+
 NodeMCU ESP8266
+
 RFID RC522 Module
+
 DHT11 Temperature & Humidity Sensor
+
 Blynk IoT Platform
+
 Google Sheets API
+
 Arduino IDE
 
 <img width="960" height="1082" alt="WhatsApp Image 2026-04-21 at 9 15 47 AM" src="https://github.com/user-attachments/assets/ef787bd3-06d3-47b5-b3ad-a11e60931976" />
