@@ -1,6 +1,10 @@
 # Smart-Attendance-System
 By scanning the RFID it marked present or unauthrized
 
+
+
+<img width="1536" height="1024" alt="ChatGPT Image Apr 21, 2026, 09_24_22 AM" src="https://github.com/user-attachments/assets/75bd4bf8-f431-4e09-9278-ea007c422bd1" />
+
 Smart Classroom IoT System
 
 This project is an IoT-based Smart Classroom System designed to automate student attendance and monitor classroom environmental conditions using modern IoT technologies. The system uses an RFID reader (RC522) to scan student ID cards and automatically record attendance through a NodeMCU ESP8266 microcontroller.
@@ -26,8 +30,6 @@ DHT11 Temperature & Humidity Sensor
 Blynk IoT Platform
 Google Sheets API
 Arduino IDE
-
-<img width="1536" height="1024" alt="ChatGPT Image Apr 21, 2026, 09_24_22 AM" src="https://github.com/user-attachments/assets/75bd4bf8-f431-4e09-9278-ea007c422bd1" />
 
 <img width="960" height="1082" alt="WhatsApp Image 2026-04-21 at 9 15 47 AM" src="https://github.com/user-attachments/assets/ef787bd3-06d3-47b5-b3ad-a11e60931976" />
 
