@@ -16,8 +16,11 @@ Additionally, a DHT11 sensor is used to monitor classroom temperature and humidi
 The system also generates alerts when temperature or humidity exceeds predefined limits, improving classroom monitoring and safety.
 
 Features
+
 RFID-based automatic attendance system
+
 Real-time IoT monitoring using NodeMCU ESP8266
+
 Cloud data storage using Google Sheets
 Mobile dashboard using Blynk IoT platform
 Temperature and humidity monitoring using DHT11 sensor
